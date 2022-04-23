@@ -1,11 +1,7 @@
 ## Block diagrams
-![image](https://user-images.githubusercontent.com/93699185/164886148-c800519e-6e0d-4820-9d45-9f00a6d9a937.png)
+![IMG_20220423_134355](https://user-images.githubusercontent.com/93699185/164886427-56adcd90-adb3-4e25-a40b-42da249caffb.jpg)
 
 
+## Simulation
+![IMG_20220423_135616](https://user-images.githubusercontent.com/93699185/164886834-f2e59120-6c04-47c2-8237-fa0e243f096f.jpg)
 
-
-
-
-
-
-state transition diagrams ,data flow diagram,flow charts, schematic etc
