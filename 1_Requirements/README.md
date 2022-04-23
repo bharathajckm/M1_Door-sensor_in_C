@@ -14,11 +14,8 @@ The cost for implementing a project invloving a Door sensor using atmegz328 is m
 
 ### Defining Our System
 In this project I have us the ATmega328
-| Part	     | ATmega328                     | 
-| -----------|:-----------------------------:|
-| Description| 8-bit AVR Microcontrollers    |
-| Feature    | No. of Pins-28
-             | CPU-RISC 8-BitAVR
-             | Operating Voltage-1.8 to 5.5V
-             |  Program Memory-32KB          |
+| Part	     | ATmega328                                                                           | 
+| -----------|:-----------------------------------------------------------------------------------:|
+| Description| 8-bit AVR Microcontrollers                                                          |
+| Feature    | No. of Pins-28,CPU-RISC 8-Bit AVR,Operating Voltage-1.8 to 5.5V,Program Memory-32KB |
 
