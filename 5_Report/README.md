@@ -18,7 +18,14 @@ it will sense when door is closed the led light will didn't glow but when door i
 Simulation of the circuit is shown in simulide.
 The code is executed in the Microchip studio and Makefile and Hexfile is generated in the Microchip studio
 
-### Result
+### Testcase
+In the simulation the switch is used as a door in simulide.
+| TestCase      |                  Description                            |     Result        |
+| --------------|:-------------------------------------------------------:|------------------:|
+| Door is closed| when the switch is closed it means the door is closed   | LED will not glow |
+| Door is opened| when the switch is open it means the door is opened     |LED will glow      |
+
+
 
 
 
