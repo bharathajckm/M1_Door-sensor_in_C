@@ -1,78 +1,24 @@
-## Introduction
-
-
-
-## Research
+## Introduction 
+The Repositirory  gives the tutorial for programming of Atmega328p I/O ports, Basic input and output configuration of the pin is shown. The door sensor problem statement is cover to explain pin monitoring. masking concept is used to not affect the status of other pins. Simulation of the circuit and code is shown in simulide.
 ### Objective
-The goal of this project is to find the value of resistor in the given colour code.
+The goal of this project is to know whether to open or close the door, it will sense when door is closed the led light will didn't glow but when door is open the led light will glow  .
 
 ### Benefits
-Helps to know which resistor value for given colour code.
+Helps to know whether the door is opened or closed.
 
 ## Cost and Features
-The cost for implementing a project invloving resistor color calculator is minimal none. And the features are:
-1. reistor value for given color code 
-2. Show the color value also
-3. Show reistor value in ohm
+The cost for implementing a project invloving a Door sensor using atmegz328 is minimal none. And the features are:
+1. Safety whether the door is closed or open
+2. Easy to simulate in simulide
+3. Code is debug in the microchip studio.
 
 ### Defining Our System
-Assume that you are given the color codes of a resistor as a series of four characters, where each character represents a number and 
-a place, with the last color representing the multiplier. Your task is to read in these four characters (i.e., colors) and write out the
-equivalent resistor value in Ohms. The first three bands are digits and the fourth band is the multiplier. Write a function that takes a
-character argument representing a color and returns an integer representing the band value or the multiplier. Call this function four
-times to compute the numeric value of your resistor.
-
-The table given is as follows:
-
-Character Color Band Value Multiplier
-
-B Black 0 1
-
-N Brown 1 10
-
-R Red 2 100
-
-O Orange 3 1K
-
-Y Yellow 4 10K
-
-G Green 5 100K
-
-L Blue 6 1M
-
-V Violet 7 10M
-
-E Gray 8
-
-W White 9
-
-## 4W's and 1'H
-### Who:
-* Students who want to know the value of reistor for given color code
-* Electrical engineers
-
-### What:
-* To find the value of resistor.
-
-### When:
-* Students who want to know the resistor value, can use this program.
-* Come to a great use when finding answers.
-
-### Where:
-* Students, electrical and electronics engineers all over the world.
-
-### How:
-* This program can be executed in a system which has Linux or Windows operating system.
-
-## High Level Requirements
-| ID   | Description                                | Category  | Status      |
-| -----|:------------------------------------------:|:---------:|:-----------:|
-| HR01 | User can be able to know resistor value    | Technical | IMPLEMENTED |
-
-
-
-## Low Level Requirements
-| ID    | Description                                                             | HLR ID | Status (Implemented/Future) |
-| ------|:-----------------------------------------------------------------------:| ------:|----------------------------:|
-| LR01  | User must choose the color code                                         | HR01   | IMPLEMENTED |
+In this project I have us the ATmega328
+| Part	     | ATmega328                    | 
+| -----------|:----------------------------:|
+| Description| 8-bit AVR Microcontrollers   |
+| Feature    | No. of Pins-28
+CPU-RISC 8-BitAVR
+Operating Voltage-1.8 to 5.5 V
+Program Memory-32KB                         |
 
