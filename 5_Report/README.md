@@ -34,7 +34,8 @@ In the simulation the switch is used as a door in simulide.
 
 
 * THE CIRCUIT IN SWITCH IS OPEN OR DOOR IS OPEN - LED ON:
- ![OPEN](https://user-images.githubusercontent.com/93699185/164932742-47170bce-6bb8-43ff-860f-d13398bf3a4e.png)
+![OPEN](https://user-images.githubusercontent.com/93699185/164982363-e5ba5b79-46e9-4bec-9495-f6e46b7d7c80.jpg)
+
 
 
 
