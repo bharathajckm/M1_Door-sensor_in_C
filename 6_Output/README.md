@@ -6,4 +6,5 @@
 
 
 * THE CIRCUIT IN SWITCH IS OPEN OR DOOR IS OPEN - LED ON:
- ![OPEN](https://user-images.githubusercontent.com/93699185/164932742-47170bce-6bb8-43ff-860f-d13398bf3a4e.png)
+![OPEN](https://user-images.githubusercontent.com/93699185/164982200-b62d7ca2-43e1-4fe4-b1a2-04b06dca2d55.jpeg)
+
